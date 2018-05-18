@@ -1,0 +1,15 @@
+Setting up web server
+
+1. Download WAMP server from http://www.wampserver.com/en/ and proceed to installation.
+2. After installing navigate to the root directory 'www' present inside the WAMP folder.
+3. copy the folder 'visual_captcha' into the directory
+
+Setting MySQL Database
+
+1. Login to MySQL database using root credentials
+	*make sure to change the credentials in db_connection.php file.
+2. find the .sql file titled 'visual_captcha' in visual_captcha folder.
+3. create database named 'visual_captcha'.
+4. use below statements to import the file
+	> source /path_of_sql_file/visual_captcha.sql
+5. Open the browser, navigate to http://localhost/visual_captcha/index/php to view the captcha demo.

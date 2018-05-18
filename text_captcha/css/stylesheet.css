@@ -1,0 +1,112 @@
+body{
+   background-image: url("../backgrounds/download88.jpeg");
+   background-repeat: no-repeat;
+   background-size: cover;
+}
+
+h4,h5{
+	color: black;
+}
+
+h2{
+	 color: #D4E6F4;
+    //text-shadow: 1px 1px 2px black, 0 0 1.5px black;
+}
+
+
+.alert-trim {
+  display: inline-block;
+}
+
+#l1{
+	color: black;
+}
+
+.dropdown-menu{
+	white-space: normal;
+}
+
+.btn-group{
+	white-space: normal;
+}
+
+#abbr{
+	position:absolute;
+	  //bottom: 7px;
+   // width: 50%;
+    //border: 3px solid #8AC007;
+	background-color:black;
+	color:white;
+	border-top-right-radius: 25px;
+    border-top-left-radius: 25px;
+	border-bottom-left-radius: 25px;
+	border-bottom-right-radius: 25px;
+}
+
+#welcome{
+  float: right;
+}
+
+#header { 
+	height: 100px; 
+	margin: 0; padding: 13; position: relative;
+  background: #373A3C;
+  text-align: left;
+}
+
+
+
+#robotimg {
+	border: 2px solid black;
+	border-width: 2px;
+    border-top-right-radius: 25px;
+    border-top-left-radius: 25px;
+	border-bottom-left-radius: 25px;
+	border-bottom-right-radius: 25px;
+	box-shadow:0px 5px 10px 1px #333;
+}
+
+#secondimg {
+	border-style: solid;
+	border-left: 6px solid black;
+	border-right: 6px solid black;
+	border-bottom: 6px solid black;
+	border-top: 6px solid black;
+	border-width: 5px;	//border: 2px solid white;
+    border-top-right-radius: 25px;
+    border-top-left-radius: 25px;
+	border-bottom-left-radius: 25px;
+	border-bottom-right-radius: 25px;
+}
+
+#gifimg {
+	border: 2px solid black; 
+	border-width: 2px; 
+    border-top-right-radius: 25px; 
+    //border-top-left-radius: 25px; 
+	//border-bottom-left-radius: 25px; 
+	 border-bottom-right-radius: 25px; 
+}
+
+.alert{
+ box-shadow:0px 5px 10px 1px #333;
+}
+
+#capimg{
+	border: 2px solid black;
+	border-width: 2px;
+    border-top-right-radius: 25px;
+    border-top-left-radius: 25px;
+	border-bottom-left-radius: 25px;
+	border-bottom-right-radius: 25px;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    //width: 50%;
+}
+
+//-------------------------------------------------
+
